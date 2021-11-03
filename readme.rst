@@ -28,6 +28,7 @@ After logging in you should be able to see the messages sent from the contact pa
 Installation
 ************
 If you want to use this on your own machine, please do the following:  
+
 Get the sql querys from the sql folder, add it to your db  
 there are a few thing that you will need to change, if you want this website to work on a local machine or on your hosting service,  
 please change the config.php file in the php folder according to your needs.  
@@ -39,4 +40,4 @@ todo -> make a better explanation?
 Changelog
 **************************
 
--Added functionality: now posible to view messages sent by people from the contact form.
+-Added functionality: now possible to view messages sent by people from the contact form.
