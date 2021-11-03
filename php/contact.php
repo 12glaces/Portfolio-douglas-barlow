@@ -1,5 +1,5 @@
 <?php 
-include '../php/header.php';
+include 'header.php';
 ?>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
