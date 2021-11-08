@@ -8,7 +8,7 @@
             $email=$_POST['email'];
             $phone=$_POST['phone'];
             $message=$_POST['message'];
-            $statement = $dbh->prepare('INSERT INTO Douglas_Contact(Nom, Prenom, Email, Phone, Message, id) VALUES (:name,:fname,:email,:phone,:message,"")');
+            $statement = $dbh->prepare('INSERT INTO Douglas_Contact(Nom, Prenom, Email, Phone, Message) VALUES (:name,:fname,:email,:phone,:message)');
             $statement->bindValue(':name', $name);
             $statement->bindValue(':fname', $fname);
             $statement->bindValue(':email', $email);
