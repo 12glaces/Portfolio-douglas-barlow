@@ -1,6 +1,6 @@
 <?php 
     include 'header.php';
-    include 'php/config.php';
+    include 'config.php';
     if(!empty($_POST)){
         if(!empty($_POST['name'])&&!empty($_POST['fname'])&&!empty($_POST['email'])&&!empty($_POST['phone'])&&!empty($_POST['message'])){
             $name=$_POST['name'];
