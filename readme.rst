@@ -13,16 +13,6 @@ This repo contains code that I created.
 If you want to test my code without downloading it, you can use my website using the following link: 
 Douglas-Barlow.com  
 
-Please go to the bottom of the page, you should be able to find a "login" button/link in between "contact" and "Réalisations"  
-Once you click on on login you will need to login using the following :  
-
-Username=Douglas  
-
-Password=farting  
-
-Beware the username is case sensitive
-
-After logging in you should be able to see the messages sent from the contact page.
 
 
 ************
